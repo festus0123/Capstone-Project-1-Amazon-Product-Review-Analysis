@@ -10,12 +10,12 @@
 #### Exploratory Data Analysis 
 #### Sales Analysis 
 #### Visualization 
-#### Insight drawn
+#### Conclusion
 
 
-Getting Started
+### Getting Started
 
-### The project contains product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
+####The project contains product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
 ###The data  will be explored to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these ﬁndings.
 
@@ -65,10 +65,11 @@ Product Anaysis
     
 Visualization
 
-Pivot tables were used in Excel to summarize the following reports and create a dashboard that visualizes the insights found in Excel and SQL. The dashboard includes a sales overview, top-performing products, and regional breakdowns.
+Pivot tables were used in Excel to summarize the following reports and create a dashboard that visualizes the insights found from the dataset.
 
 CONCLUSION
-Our data analysis of sales data has provided valuable insights that can guide decision-making across various aspects of the business. These insights include the identification of best-selling products, top revenue-generating Regions, the top best customers, the best selling months and more.
+
+Our data analysis of Product data has provided valuable insights that can guide decision-making across various aspects of the business. These insights include the identification of products that had the highest number of reviews,total potential revenue by category, relationship between the rating snd discount, number of products listed in each category and more.
 
 The business owner can make informed decisions to optimize operations, enhance marketing efforts, and maximize revenue.
 
