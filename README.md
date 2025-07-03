@@ -1,3 +1,4 @@
+)
 # Capstone-Project-1-Amazon-Product-Review-Analysis
 
 ## Table of contents
@@ -69,6 +70,15 @@ This where we explore and analyze the data to gain insights.
 ## Visualization
 
 Pivot tables were used in Excel to summarize the following reports and create a dashboard that visualizes the insights found from the dataset.
+![Amazun screenshot3](https://github.com/user-attachments/assets/91336091-4486-4b30-97b7-6d6c9c7d82f4)
+![Amazun screenshot2](https://github.com/user-attachments/assets/e7c51b05-8ed0-49ab-b836-f1218e077d4c)
+![Amazun screenshot1](https://github.com/user-attachments/assets/6931b78e-c068-4f56-b077-c49a205e9e2c)
+![Amazun screenshot5](https://github.com/user-attachments/assets/00248850-b0c2-438a-a5b4-8f0684266b1f)
+![Amazun screenshot4](https://github.com/user-attachments/assets/44846886-fde7-4d03-b015-80bdde27c899)
+![Amazun screenshot9](https://github.com/user-attachments/assets/82071ced-695e-4b29-ac11-698dabee5b1f)
+![Amazun screenshot8](https://github.com/user-attachments/assets/79381869-6cf3-4c7f-81b1-afdc0d1211e5)
+![Amazun screenshot7](https://github.com/user-attachments/assets/6ae6051f-8660-476a-a00e-15c988373529)
+![Amazun screenshot6](https://github.com/user-attachments/assets/d07c6edb-2d08-4696-8c28-c4425b337ef3
 
 ## CONCLUSION
 
