@@ -17,7 +17,7 @@
 
 ####The project contains product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
-###The data  will be explored to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these ﬁndings.
+###The data  will be used to identify the products that have the highest number of reviews,total potential revenue by category, relationship between the rating snd discount, number of products listed in each category and more. The goal is to use the cleaned dataset and pivot outputs, to build an Excel dashboard.
 
 Tools Used
 Microsoft Excel 365
@@ -69,7 +69,7 @@ Pivot tables were used in Excel to summarize the following reports and create a 
 
 CONCLUSION
 
-Our data analysis of Product data has provided valuable insights that can guide decision-making across various aspects of the business. These insights include the identification of products that had the highest number of reviews,total potential revenue by category, relationship between the rating snd discount, number of products listed in each category and more.
+Our data analysis of Product data has provided valuable insights that can guide decision-making across various aspects of the business. These insights include the identification of products that have the highest number of reviews,total potential revenue by category, relationship between the rating snd discount, number of products listed in each category and more.
 
 The business owner can make informed decisions to optimize operations, enhance marketing efforts, and maximize revenue.
 
