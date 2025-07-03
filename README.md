@@ -15,8 +15,7 @@
 
 Getting Started
 
-#### The project contains product and customer review data to generate insights that can
-guide product improvement, marketing strategies, and customer engagement.
+### The project contains product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
 ###The data  will be explored to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these ﬁndings.
 
@@ -38,12 +37,15 @@ rows
 TotalFields: 16 columns
 
 Data Processing
-Data processing involves cleaning and preparing the data for analysis. This section includes various data preprocessing steps.
+
+This involves cleaning and preparing the data for analysis. This section includes various data preprocessing steps.
 
 Exploratory Data Analysis (EDA)
-EDA is the heart of this project, where we explore and analyze the data to gain insights.
+
+This where we explore and analyze the data to gain insights.
 
 Product Anaysis
+
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
 3. What is the total number of reviews per category?
