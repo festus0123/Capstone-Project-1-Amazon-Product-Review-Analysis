@@ -3,15 +3,15 @@
 
 ## Table of contents
 
-#### [Getting Started] 
-#### [Tool Used]
-#### [Initial Exploration] 
-#### [Data Collection] 
-#### [Data Processing] 
-#### [Exploratory Data Analysis] 
-#### [Sales Analysis] 
-#### [Visualization] 
-#### [Conclusion]
+#### [Getting Started](Getting-Started)
+#### [Tool Used](Tool-Used)
+#### [Initial Exploration](Initial-Rxploration) 
+#### [Data Collection](Data-Collevtion) 
+#### [Data Processing](Data-processing)
+#### [Exploratory Data Analysis](Exploration-Data-Analysis) 
+#### [Sales Analysis](Sales-Analysis) 
+#### [Visualization](Visualization)
+#### [Conclusion](Conclusion)
 
 
 ### Getting Started
