@@ -6,8 +6,8 @@
 #### [Getting Started](Getting-Started)
 #### [Tool Used](Tool-Used)
 #### [Initial Exploration](Initial-Rxploration) 
-#### [Data Collection](Data-Collevtion) 
-#### [Data Processing](Data-processing)
+#### [Data Collection](Data-Collecion) 
+#### [Data Cleaning](Data-Cleaning)
 #### [Exploratory Data Analysis](Exploration-Data-Analysis) 
 #### [Sales Analysis](Sales-Analysis) 
 #### [Visualization](Visualization)
@@ -40,7 +40,7 @@ Records:
 rows
 TotalFields: 16 columns
 
-## Data Processing
+## Data Cleaning 
 
 This involves cleaning and preparing the data for analysis. This section includes various data preprocessing steps.
 
